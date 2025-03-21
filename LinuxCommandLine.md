@@ -33,7 +33,7 @@ commands:
 |           | type 'quit' or 'exit' to close gnuplot |
 | <kbd>tab</kbd> | he tab key is very useful - it is autocomplete. It will save you from typing long file names, and will help avoid making typos!|
 
-In a Terminal try typing in the following commands in order, and see if you can follow what is hapenning and why. If you don't understand what they are doing, please ask one of us for help:
+In a Terminal try typing in the following commands in order, and see if you can follow what is hapenning and why. If you don't understand what they are doing, please ask one of us for help: 
 
 ```bash
  pwd
